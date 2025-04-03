@@ -55,59 +55,107 @@ Accédez au portail des développeurs Discord.
 Sélectionnez votre application, puis générez une URL d'invitation avec les autorisations appropriées.
 Utilisez cette URL pour inviter le bot sur votre serveur.
 
-Dépendances : 
+## Dépendances : 
 
 Le bot utilise les bibliothèques suivantes :
 
 aiohappyeyeballs 2.4.4
+
 aiohttp 3.11.11
+
 aiosignal 1.3.2
+
 anyio 4.8.0
+
 async-timeout 5.0.1
+
 attrs 25.1.0
+
 beautifulsoup4 4.13.3
+
 blinker 1.9.0
+
 certifi 2025.1.31
+
 charset-normalizer 3.4.1
+
 click 8.1.8
+
 deep-translator 1.11.4
+
 discord.py 2.4.0
+
 exceptiongroup 1.2.2
+
 Flask 3.1.0
+
 frozenlist 1.5.0
+
 googletrans 4.0.2
+
 h11 0.14.0
+
 h2 4.2.0
+
 hpack 4.1.0
+
 httpcore 1.0.7
+
 httpx 0.28.1
+
 hyperframe 6.1.0
+
 idna 3.10
+
 importlib_metadata 8.6.1
+
 itsdangerous 2.2.0
+
 Jinja2 3.1.5
+
 MarkupSafe 3.0.2
+
 multidict 6.1.0
+
 mysql-connector-python 9.2.0
+
 pip 23.2.1
+
 praw 7.8.1
+
 prawcore 2.4.0
+
 propcache 0.2.1
+
 python-dotenv 1.0.1
+
 requests 2.32.3
+
 setuptools 68.2.0
+
 sniffio 1.3.1
+
 soupsieve 2.6
+
 typing_extensions 4.12.2
+
 update-checker 0.18.0
+
 urllib3 2.3.0
+
 websocket-client 1.8.0
+
 Werkzeug 3.1.3
+
 wheel 0.41.2
+
 wikipedia 1.4.0
+
 yarl 1.18.3
+
 zipp 3.21.0
-Utilisation
+
+## Utilisation
 
 Une fois le bot installé et en ligne :
 
@@ -116,6 +164,6 @@ Utilisez le préfixe défini (par défaut !) suivi de la commande souhaitée. Pa
 !accueil : Envoie un message de bienvenue aux nouveaux membres.
 Pour plus de commandes et de fonctionnalités, consultez la documentation complète ou utilisez !aide dans Discord.
 
-Licence :
+## Licence :
 
 Ce projet est sous licence MIT. Voir le fichier LICENSE pour plus de détails.
